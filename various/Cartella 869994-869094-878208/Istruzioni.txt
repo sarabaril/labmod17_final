@@ -1,0 +1,105 @@
+ISTRUZIONI DI STAMPA ADOBE INDESIGN DESTINATE AL SERVICE DI STAMPA
+
+NOME PUBBLICAZIONE: 869994-869094-878208.indd
+
+DATA PREPARAZIONE PACCHETTO: 22/02/2018 02:06
+Data di creazione: 22/02/2018
+Data di modifica: 22/02/2018
+
+INFORMAZIONI DI CONTATTO
+
+Nome società: 
+Contatto: 
+Indirizzo: 
+
+
+
+
+
+Telefono: 
+Fax: 
+E-mail: 
+
+ISTRUZIONI SPECIALI E ALTRE INDICAZIONI
+
+
+
+
+
+
+Plug-in esterni 0
+Oggetti non opachi: A pagina1, 2, 3, 4, 5
+
+FONT
+5 font usati; 1 mancanti, 1 incorporati, 0 incompleti, 0 protetti
+
+Font inclusi nel pacchetto
+- Nome: Helvetica-Normal Regular; Tipo: ???, Stato: mancanti
+- Nome: HelveticaLTStd-Bold; Tipo: OpenType Type 1, Stato: OK
+- Nome: HelveticaLTStd-Light; Tipo: OpenType Type 1, Stato: OK
+- Nome: MinionPro-Regular; Tipo: OpenType Type 1, Stato: OK
+- Nome: MyriadPro-Regular; Tipo: Type 1, Stato: incorporati
+
+
+COLORI E INCHIOSTRI
+4 inchiostri di quadricromia; 0 inchiostri tinta piatta
+
+- Nome e tipo: Cyan quadricromia; Angolo: 0,000; Linee/pollice: 0,000
+- Nome e tipo: Magenta quadricromia; Angolo: 0,000; Linee/pollice: 0,000
+- Nome e tipo: Giallo quadricromia; Angolo: 0,000; Linee/pollice: 0,000
+- Nome e tipo: Nero quadricromia; Angolo: 0,000; Linee/pollice: 0,000
+
+
+COLLEGAMENTI E IMMAGINI
+(Solo collegamenti mancanti e incorporati)
+Collegamenti e immagini: 30 collegamenti trovati; 0 modificati, 16 mancanti 0 Non accessibile
+Immagini: 0 incorporati, 27 usano spazio cromatico RGB
+
+- Nome: 01.jpg; Tipo: JPEG RGB; Stato: mancanti
+- Nome: LOGO POLI.png; Tipo: Portable Network Graphics (PNG) RGB; Stato: mancanti
+- Nome: LOGO POLI.png; Tipo: Portable Network Graphics (PNG) RGB; Stato: mancanti
+- Nome: LOGO POLI.png; Tipo: Portable Network Graphics (PNG) RGB; Stato: mancanti
+- Nome: LOGO POLI.png; Tipo: Portable Network Graphics (PNG) RGB; Stato: mancanti
+- Nome: LOGO POLI.png; Tipo: Portable Network Graphics (PNG) RGB; Stato: mancanti
+- Nome: camera.jpg; Tipo: JPEG RGB; Stato: mancanti
+- Nome: camera.png; Tipo: Portable Network Graphics (PNG) RGB; Stato: mancanti
+- Nome: cucina.jpg; Tipo: JPEG RGB; Stato: mancanti
+- Nome: cucina.png; Tipo: Portable Network Graphics (PNG) RGB; Stato: mancanti
+- Nome: prospettodefsispera.png; Tipo: Portable Network Graphics (PNG) RGB; Stato: mancanti
+- Nome: s.2.png; Tipo: Portable Network Graphics (PNG) RGB; Stato: mancanti
+- Nome: sezione piante-01.png; Tipo: Portable Network Graphics (PNG) RGB; Stato: mancanti
+- Nome: sezione piante-02.png; Tipo: Portable Network Graphics (PNG) RGB; Stato: mancanti
+- Nome: sezione piante-03.png; Tipo: Portable Network Graphics (PNG) RGB; Stato: mancanti
+- Nome: sezione piante-05.png; Tipo: Portable Network Graphics (PNG) RGB; Stato: mancanti
+
+IMPOSTAZIONI DI STAMPA
+PPD: N/D, (Canon MG7500 series Printer WS)
+Stampa in corso su: Stampante
+Numero di copie: 1
+Pagine affiancate: No
+Pagine pari/dispari: Entrambe
+Pagine: Tutte
+Prova di stampa: No
+Divisione in porzioni: Nessuno
+Scala: 100%, 100%
+Posizione pagina: In alto a sinistra
+Stampa livelli: Livelli visibili e stampabili
+Segni di stampa: Nessuno
+Pagina al vivo: 0 mm, 0 mm, 0 mm, 0 mm
+Colore: RGB composito
+Modalità abbondanza: Nessuno
+Invia dati immagine: Subsampling ottimizzato
+Sostituzione immagini OPI/DCS: No
+Dimensioni pagina: Personalizzate: 594 mm x 420 mm
+Dimensioni carta: 210 mm x 297 mm
+Orientamento: Orizzontale
+Negativo: No
+Modalità riflessione: Disattivato
+
+
+ELENCO DEI FILE DEL PACCHETTO
+
+1. 869994-869094-878208.indd; tipo: Pubblicazione Adobe InDesign; dimensione: 0K
+2. HelveticaLTStd-Bold.otf; tipo: Font; dimensione: 45K
+3. HelveticaLTStd-Light.otf; tipo: Font; dimensione: 28K
+4. MinionPro-Regular.otf; tipo: Font; dimensione: 213K
